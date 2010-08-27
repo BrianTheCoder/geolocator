@@ -1,0 +1,1 @@
+Simple javascript geolocator, wraps maxmind and native geolocation, falls back gracefully.
